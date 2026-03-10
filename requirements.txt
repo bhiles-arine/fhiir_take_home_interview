@@ -1,0 +1,19 @@
+# FHIR Patient Summary - take-home assignment
+# Python 3.10+
+
+# HTTP client for FHIR API
+requests>=2.28.0
+
+# Optional: FHIR R4 client and resource models (recommended)
+fhirclient>=4.1.0
+
+# Data validation and summary models
+pydantic>=2.0.0
+
+# Optional: if you add a small HTTP API
+# fastapi>=0.100.0
+# uvicorn>=0.22.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
