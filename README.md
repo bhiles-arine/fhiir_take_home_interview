@@ -93,7 +93,7 @@ Do **not** implement authentication (e.g. SMART on FHIR). Assume read-only, unau
 
 ---
 
-## Out of scope (keep it to 4–6 hours)
+## Out of scope
 
 - Authentication / OAuth / SMART on FHIR
 - Persistence or database
